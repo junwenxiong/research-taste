@@ -1,0 +1,22 @@
+{
+  "A": {
+    "label": "Adaptive Test-Time Compute Routing",
+    "authors": ["Model1", "Model2"],
+    "origin": "Cross-model synthesis"
+  },
+  "B": {
+    "label": "Verifier-Filtered CoT Distillation",
+    "authors": ["Model2"],
+    "origin": "Model2 independent"
+  },
+  "C": {
+    "label": "Formal KV-Cache Eviction Bound",
+    "authors": ["Model3"],
+    "origin": "Model3 independent"
+  },
+  "D": {
+    "label": "Hard-Negative Data Curriculum",
+    "authors": ["Model1"],
+    "origin": "Model1 independent"
+  }
+}
